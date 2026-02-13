@@ -1,4 +1,6 @@
 <h1 align="center">Hey 👋, I'm Luis Eduardo</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=loki-crypto&label=Profile%20Views&color=F7C600&style=flat)
+
 <h3 align="center">DevSecOps • Cybersecurity • Automation • Infrastructure</h3>
 
 <p align="center">
