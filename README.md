@@ -50,8 +50,3 @@ Security-first mindset. Automating infrastructure and building secure systems.
 - Scalable automation
 
 ---
-
-### 📫 Contact
-
-- 📧 your@email.com
-- 💼 linkedin.com/in/youruser
