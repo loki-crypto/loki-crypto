@@ -53,10 +53,11 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=loki-crypto&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki-crypto&layout=compact&theme=transparent&hide_border=true" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=loki-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki-crypto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <hr/>
 
