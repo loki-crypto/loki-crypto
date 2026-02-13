@@ -1,57 +1,57 @@
 <h1 align="center">Hey 👋, I'm Luis Eduardo</h1>
-<h3 align="center">Cybersecurity • DevSecOps • Network Security • Automation</h3>
+<h3 align="center">DevSecOps • Cybersecurity • Automation • Infrastructure</h3>
 
 <p align="center">
-Focused on building secure, automated and containerized solutions.
+Security-first mindset. Automating infrastructure and building secure systems.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔐 Working with **FortiGate environments & firewall automation**
-- 📡 Experience in **NOC operations & infrastructure monitoring (Zabbix)**
-- 🐳 Building **Docker-based security labs**
-- ⚙️ Developing automation tools using **Python**
-- 🛡️ Focused on **Application Security & infrastructure hardening**
-- 🔥 Practicing **offensive security labs**
+- 🔐 DevSecOps focused on secure infrastructure and automation
+- 🐳 Working with Docker and containerized environments
+- 🔥 Experience with FortiGate firewall environments
+- 📊 Monitoring & observability with Zabbix
+- ⚙️ Building automation tools using Python
+- 🛡️ Application Security & infrastructure hardening
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
-**Security & Networking**
+**Security & Infra**
 - FortiGate
-- Firewall Policy Management
+- Firewall Management
 - Network Segmentation
 - Log Analysis
-- Zabbix Monitoring
+- Zabbix
+
+**Automation & DevOps**
+- Python
+- Docker
+- Linux (Ubuntu / WSL)
+- CI/CD fundamentals
+- Infrastructure scripting
 
 **Development**
-- Python
 - PHP
 - Java
 - REST APIs
-- Secure Coding Practices
-
-**DevOps & Infrastructure**
-- Docker
-- Linux (Ubuntu / WSL)
-- Containerized Labs
-- Automation Scripts
+- Secure coding practices
 
 ---
 
-### 📌 Current Focus
+### 🎯 Current Focus
 
-- 🔒 Advanced AppSec
-- ⚔️ Offensive Security Methodologies
-- 🏗️ Secure Architecture
-- ⚙️ Scalable Automation Systems
+- DevSecOps practices
+- Secure architecture design
+- Offensive security labs
+- Scalable automation
 
 ---
 
 ### 📫 Contact
 
-- 📧 Email: seuemail@email.com
-- 💼 LinkedIn: linkedin.com/in/seuuser
+- 📧 your@email.com
+- 💼 linkedin.com/in/youruser
