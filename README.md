@@ -41,16 +41,6 @@
 
 <hr/>
 
-<h2>📌 Featured Projects</h2>
-
-<ul>
-  <li><b>FortiGate Backup Tool</b> — automated backups, alerts, filters, and execution workflows (Python).</li>
-  <li><b>Roadmap + Kanban</b> — visual roadmap and kanban board interconnected (PHP/HTML/CSS/JS).</li>
-  <li><b>Offensive Security Labs</b> — Docker labs for AppSec and web security testing.</li>
-</ul>
-
-<hr/>
-
 ## 📌 Featured Projects
 
 ### 🔐 FortiGate Backup Tool
