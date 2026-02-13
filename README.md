@@ -1,76 +1,68 @@
 <h1 align="center">Hey 👋, I'm Luis Eduardo</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loki-crypto&label=Profile%20Views&color=F7C600&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=loki-crypto&label=Profile%20Views&color=F7C600&style=flat" alt="Profile Views" />
 </p>
-
-<h3 align="center">DevSecOps • Cybersecurity • Automation • Infrastructure</h3>
 
 <p align="center">
-Security-first mindset. Automating infrastructure and building secure systems.
+  <b>DevSecOps</b> • <b>Cybersecurity</b> • <b>Automation</b> • <b>Infrastructure</b>
 </p>
 
----
+<p align="center">
+  Security-first mindset. Automating infrastructure and building secure systems.
+</p>
 
-### 🚀 About Me
+<hr/>
+
+<h2>🚀 About Me</h2>
 
 - 🔐 DevSecOps focused on secure infrastructure and automation  
-- 🐳 Working with Docker and containerized environments  
-- 🔥 Experience with FortiGate environments  
+- 🐳 Docker & containerized environments  
+- 🔥 FortiGate / firewall environments  
 - 📊 Monitoring & observability with Zabbix  
-- ⚙️ Building automation tools using Python  
-- 🛡️ Application Security & infrastructure hardening  
+- ⚙️ Building automation tools with Python  
+- 🛡️ AppSec & infrastructure hardening  
 
----
+<hr/>
 
-### 🛠️ Tech Stack
+<h2>🧰 Tech Stack</h2>
 
-<h4 align="center">🔐 Security & Infrastructure</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FortiGate-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Zabbix-grey?style=flat-square&logo=zabbix"/>
-  <img src="https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-grey?style=flat-square&logo=ubuntu"/>
-  <img src="https://img.shields.io/badge/Networking-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Log_Analysis-grey?style=flat-square"/>
+<h3>Core</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,python,php,java,git,github" />
 </p>
 
-<h4 align="center">⚙️ DevOps & Automation</h4>
+<h3>Security / Infra</h3>
+<ul>
+  <li><b>FortiGate</b> • Firewall policies • NAT • Segmentation</li>
+  <li><b>Zabbix</b> • Monitoring • Alerts • Observability</li>
+  <li><b>Hardening</b> • Secure configs • Access control • Logging</li>
+</ul>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-grey?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-grey?style=flat-square&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/CI/CD-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Scripting-grey?style=flat-square"/>
+<hr/>
+
+<h2>📌 Featured Projects</h2>
+
+<ul>
+  <li><b>FortiGate Backup Tool</b> — automated backups, alerts, filters, and execution workflows (Python).</li>
+  <li><b>Roadmap + Kanban</b> — visual roadmap and kanban board interconnected (PHP/HTML/CSS/JS).</li>
+  <li><b>Offensive Security Labs</b> — Docker labs for AppSec and web security testing.</li>
+</ul>
+
+<hr/>
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=loki-crypto&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki-crypto&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
-<h4 align="center">💻 Development</h4>
+<hr/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-grey?style=flat-square&logo=php"/>
-  <img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/REST_API-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Secure_Coding-grey?style=flat-square"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=loki-crypto&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki-crypto&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
----
-
-### 🎯 Current Focus
+<h2>🎯 Current Focus</h2>
 
 - DevSecOps best practices  
 - Secure architecture design  
 - Offensive security labs  
-- Scalable automation  
-
----
+- Scalable automation
