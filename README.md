@@ -51,16 +51,20 @@
 
 <hr/>
 
-<h2>📊 GitHub Stats</h2>
+## 📌 Featured Projects
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=loki-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=loki-crypto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🔐 FortiGate Backup Tool
+Automated backup system with authentication, token verification, alerting and filtering.
+Tech: Python • API Integration • Security Controls
 
+### 📊 Roadmap + Kanban System
+Interconnected roadmap visualization and task management platform.
+Tech: PHP • HTML • JavaScript • UI/UX
 
+### 🧪 Security Labs
+Docker-based vulnerable environments for AppSec testing.
+Tech: Docker • Linux • Networking
 
-<hr/>
 
 <h2>🎯 Current Focus</h2>
 
