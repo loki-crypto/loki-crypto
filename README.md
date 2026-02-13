@@ -41,24 +41,11 @@
 
 <hr/>
 
-## 📌 Featured Projects
-
-### 🔐 FortiGate Backup Tool
-Automated backup system with authentication, token verification, alerting and filtering.
-Tech: Python • API Integration • Security Controls
-
-### 📊 Roadmap + Kanban System
-Interconnected roadmap visualization and task management platform.
-Tech: PHP • HTML • JavaScript • UI/UX
-
-### 🧪 Security Labs
-Docker-based vulnerable environments for AppSec testing.
-Tech: Docker • Linux • Networking
-
-
 <h2>🎯 Current Focus</h2>
 
 - DevSecOps best practices  
 - Secure architecture design  
 - Offensive security labs  
 - Scalable automation
+
+<hr/>
